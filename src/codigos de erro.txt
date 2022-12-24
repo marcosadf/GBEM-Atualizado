@@ -1,0 +1,23 @@
+Cod  |   Descrição
+0    | Execução normal de metodo
+1    | Colisão com parede
+2    | Colisão com proprio corpo
+3    | Colisão com item comum
+4    | Colisão com item bônus
+5    | Inicio questão
+6    | Reposta questão
+7    | Resposta questão correta
+8    | Resposta questão incorreta
+9    | Encerra questão
+10   | Fim do tempo questão
+11   | Pausar execução game
+12   | Retomar execução game
+13   | Inicio do evento buraco negro
+14   | Dentro do buraco negro
+15   | Troca de sprites
+16   | Saida do buraco negro
+17   | Retomada do controle cobra
+18   | Fim do evento buraco negro
+19   | Game encerrado
+20   | Vitoria, mapa totalmente preenchido
+21   | Estado diferente de vivo

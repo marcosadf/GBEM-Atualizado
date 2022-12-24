@@ -1,0 +1,60 @@
+html{
+	height: 100%;
+	width: 100%;
+}
+
+body {
+	margin: 0;
+	padding: 0;
+	width: 100vw;
+	height: 100vh;
+	background: #6C7A89;
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	align-items: center;
+}
+
+.menuGame ul li{
+	background-color: #A9A9A9;
+	color: white;
+	float: left;
+	display: inline-block;
+	text-align: center;
+}
+.menuGame ul li:hover{
+	background-color: #808080;
+}
+
+.tabRank {
+	width: 100%;
+}
+.tabRankThead {
+	width: 100%;
+}
+.tabRankTr {
+	width: 100%;
+	border: 1px solid #dad6eb;
+	border-radius: 5px;
+	padding: 30px;
+	margin-bottom: 30px;
+}  
+.tabRankTd {
+	padding: 5px;
+	position: relative;
+	text-align: center;
+}
+
+.tabRankTheadTh{
+	color: #3f3f3f;
+}
+	
+.tabRankTheadTh:hover{
+	background-color: #A9A9A9;
+}
+#container{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	align-content: center;
+}
